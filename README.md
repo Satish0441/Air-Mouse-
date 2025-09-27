@@ -54,12 +54,13 @@ By moving the ESP32 device in the air, the cursor on your computer moves accordi
 | 27        | Button 4    | Scroll Down      |
 
 ---
-
+## Note
+ Adjust Sensitivity,ThresholdX and ThresholdY for better control.
 ## 📦 Arduino Libraries Required
 
 Install the following libraries in Arduino IDE:
 
-1. **BleMouse**  
+**BleMouse**  
    ```arduino
    Sketch → Include Library → Manage Libraries → Search "BleMouse"
-<img width="747" height="592" alt="image" src="https://github.com/user-attachments/assets/b23ebeca-0c2c-4db6-bfd6-6db748585c25" />
+
